@@ -4,3 +4,4 @@ This is test repository for testing whole workflow.
 2. Edit in local via SourceTree, master.
 3. Eidt in local via SourceTree, develop.
 4. Edit in local via SourceTree, FixBug-2001.
+5. Edit in local via SourceTree, feature/DRG-27550.
